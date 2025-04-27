@@ -3,6 +3,17 @@
   BannerInterno(:subTitulo="'1. Título tema'")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.overflow-hidden
 
+    .bg-full-width.bg-h85-3
+      .px-4.px-md-5.py-4
+        div 
+          .row.align-items-center
+            .col-lg-auto.order-2
+              img(src="@/assets/curso/tema1/1.svg", style="max-width: 400px").mx-auto
+            .col-lg.order-1.text-white
+              p Este proceso invita a la reflexión y al análisis crítico. Se espera que, al finalizar la unidad, el estudiante sea capaz de explicar el papel de la familia en la estimulación temprana, diseñar entornos que favorezcan el desarrollo infantil y evaluar programas existentes con un enfoque propositivo. La participación en las actividades permitirá no solo comprender estos conceptos, sino también aplicarlos en distintos escenarios educativos y familiares.
+              p Se abre la oportunidad de analizar cómo la familia puede ser un pilar fundamental en el aprendizaje y desarrollo infantil desde los primeros años. 
+              h5 ¡Es momento de comenzar!
+
     #t_1_1.titulo-segundo(data-aos="flip-up")
       h2 #[span 1.1] Subtítulo tema
 
