@@ -19,7 +19,7 @@
             div 
               .row.justify-content-center.align-items-center
                 .col-lg-8(data-aos="fade-left").order-2
-                  p.mt-5 En esta oportunidad, exploraremos qué hace que un entorno sea verdaderamente enriquecedor para el desarrollo infantil y cómo se pueden potenciar los espacios cotidianos para favorecer el aprendizaje.
+                  p.mt-lg 5 En esta oportunidad, exploraremos qué hace que un entorno sea verdaderamente enriquecedor para el desarrollo infantil y cómo se pueden potenciar los espacios cotidianos para favorecer el aprendizaje.
                 .col-lg-4(data-aos="zoom-in").order-1.mb-3.mb-lg-0
                   img.img-fluid(src='@/assets/curso/tema2/1.svg', style="max-width:190px", alt="" ).mx-auto.mx-lg-0.ms-lg-auto.mb-4.mb-lg-0
         h5 ¡Acompáñenos en este recorrido por los entornos de aprendizaje y descubramos juntos su impacto en la estimulación temprana! 
