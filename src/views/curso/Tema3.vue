@@ -78,7 +78,7 @@
                 img(src="@/assets/curso/tema3/6.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
               h5 Lineamientos pedagógicos y curriculares para la educación inicial
-              p El <b>Ministerio de Educación Nacional (MEN)</b>| ha desarrollado lineamientos específicos que orientan las prácticas educativas en la primera infancia. Estos documentos establecen principios y estrategias que permiten a educadores y cuidadores implementar programas de estimulación temprana basados en el juego, la exploración y la interacción con el entorno.
+              p El <b>Ministerio de Educación Nacional (MEN)</b> ha desarrollado lineamientos específicos que orientan las prácticas educativas en la primera infancia. Estos documentos establecen principios y estrategias que permiten a educadores y cuidadores implementar programas de estimulación temprana basados en el juego, la exploración y la interacción con el entorno.
     
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
@@ -152,7 +152,7 @@
           .col-lg-auto
             img(src="@/assets/curso/tema3/14.svg", style="max-width: 90px").mx-auto
           .col-lg
-            p.mb-0.text-white Finalmente, la diversidad de estímulos es lo que convierte un espacio común en un entorno verdaderamente enriquecedor. Los colores, las texturas, los sonidos y las oportunidades de exploración sensorial, despiertan la curiosidad y fomentan el aprendizaje activo. La variedad de materiales y experiencias no solo mantiene el interés del niño, sino que también estimula su desarrollo cognitivo, emocional y social. 
+            p.mb-0.text-white En el ámbito de la salud, el Plan Decenal de Salud Pública, ha integrado acciones específicas para la atención de la primera infancia, promoviendo programas de seguimiento del desarrollo infantil y garantizando el acceso a servicios de salud materno-infantil. Por su parte, el Plan Nacional de Desarrollo, ha priorizado la inversión en educación inicial y programas de estimulación temprana, con especial énfasis en comunidades en situación de vulnerabilidad.
     
     p.mb-4 El marco normativo colombiano, ha sido clave para estructurar y consolidar las políticas de estimulación temprana. Algunas de las regulaciones más relevantes incluyen:
 
@@ -179,13 +179,13 @@
         
         LineaTiempoD.color-primario.large(data-aos="fade-left")
           p(numero="6" titulo="Lineamientos Pedagógicos y Curriculares para la Educación Inicial (Ministerio de Educación Nacional)") Orientan la implementación de programas de estimulación temprana en instituciones y hogares comunitarios.
-          p(numero="7" titulo="Resolución 3280 del 2018 – Ruta Integral de Atenciones para la Primera Infancia") Define los servicios esenciales que deben recibir los niños y las niñas en sus primeros años, abarcando salud, nutrición, protección y educación.
+          p(numero="7" titulo="Resolución 3280 del 2018 - Ruta Integral de Atenciones para la Primera Infancia") Define los servicios esenciales que deben recibir los niños y las niñas en sus primeros años, abarcando salud, nutrición, protección y educación.
           p(numero="8" titulo="Plan Decenal de Salud Pública 2012-2021") Incorpora estrategias de atención a la primera infancia, promoviendo un enfoque preventivo y de promoción del desarrollo infantil.
           p(numero="9" titulo="Conpes 109 del 2007 y Conpes 162 del 2013") Establecen lineamientos de inversión y estrategias para la atención integral de la primera infancia, fortaleciendo el acceso a programas de estimulación temprana.
           p(numero="10" titulo="Política Pública de Primera Infancia 'De Cero a Siempre'") Orienta las acciones del Estado en favor del desarrollo infantil temprano, promoviendo la articulación de diferentes sectores para garantizar el bienestar de los niños y niñas en sus primeros años de vida.
 
-    #t_3_1.titulo-segundo(data-aos="flip-up")
-      h2 #[span 3.1] Evaluación y mejora de programas de estimulación temprana
+    #t_3_4.titulo-segundo(data-aos="flip-up")
+      h2 #[span 3.4] Evaluación y mejora de programas de estimulación temprana
     
     p.mb-4 La evaluación de los programas de estimulación temprana es fundamental para garantizar su efectividad y adaptar sus estrategias a las necesidades de los niños y sus familias.
 

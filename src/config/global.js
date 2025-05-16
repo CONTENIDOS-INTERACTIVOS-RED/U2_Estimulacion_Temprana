@@ -312,7 +312,8 @@ export default {
     },
     {
       termino: 'Autonomía Infantil',
-      significado: 'favoreciendo ',
+      significado:
+        'Capacidad del niño para realizar actividades por sí mismo, favoreciendo su independencia y toma de decisiones.',
     },
     {
       termino: 'Desarrollo Cognitivo',

@@ -1,6 +1,6 @@
 <template lang="pug">
 .curso-main-container.pb-3
-  BannerInterno(:subTitulo="'1. Título tema'")
+  BannerInterno(:subTitulo="'1. La familia y la estimulación temprana'")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.overflow-hidden
 
     .bg-full-width.bg-h85-4
@@ -144,7 +144,7 @@
             h2.mb-4(data-aos="flip-up") Vínculo afectivo y su impacto en el desarrollo del niño
             p.mb-4(data-aos="fade-right") En el PDF <b>Vínculo afectivo y su impacto en el desarrollo del niño</b>, se abordan los fundamentos del apego y su importancia en las primeras etapas de vida, explorando cómo las interacciones con los cuidadores modelan la estabilidad emocional del niño y su percepción del mundo. A través de este contenido, se analizan estrategias para fortalecer el lazo afectivo y su impacto en la construcción de una autoestima saludable y en la regulación emocional a lo largo del desarrollo infantil.
     
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_2.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -244,7 +244,7 @@
             p Es común pensar que compartir tiempo de calidad implica planificar actividades complejas o disponer de largos periodos libres. Sin embargo, pequeños gestos cotidianos pueden convertirse en experiencias enriquecedoras. Mirarlo a los ojos mientras se le habla, responder con interés a sus preguntas, escuchar sus historias con atención y compartir momentos de juego sin distracciones, crean un ambiente propicio para su desarrollo integral.
           div(numero="3" titulo="La presencia física sin verdadera conexión") 
             p Uno de los errores más frecuentes en la interacción con los niños, es la presencia física sin verdadera conexión. Estar en la misma habitación mientras se revisa el teléfono o se realizan otras tareas, puede dar la impresión de compañía, pero no satisface la necesidad de vínculo afectivo que el niño requiere. En cambio, dedicar unos minutos exclusivos a una conversación, un abrazo o una actividad compartida, refuerza la relación y estimula su desarrollo emocional.
-          div(numero="4" titulo="lectura ") 
+          div(numero="4" titulo="El juego, la lectura y la exploración conjunta ") 
             p Estas son estrategias claves para aprovechar el tiempo de calidad. Leer un cuento antes de dormir, construir una torre con bloques o cantar una canción juntos, no solo fortalecen el lazo afectivo, sino que también potencian el desarrollo del lenguaje, la creatividad y la inteligencia emocional. Además, estas interacciones fomentan la confianza y la seguridad en el niño, brindándole la tranquilidad de saber que se le considera importante y es valorado.
     
     p En definitiva, la participación familiar en la estimulación temprana no se basa en la cantidad de tiempo que se comparte con el niño, sino en la calidad de esos momentos. Lo esencial es estar presente de manera consciente, disfrutando cada interacción y convirtiendo lo cotidiano en una oportunidad de aprendizaje y conexión.

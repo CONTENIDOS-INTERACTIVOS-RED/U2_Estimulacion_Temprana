@@ -19,7 +19,7 @@
             div 
               .row.justify-content-center.align-items-center
                 .col-lg-8(data-aos="fade-left").order-2
-                  p.mt-lg 5 En esta oportunidad, exploraremos qué hace que un entorno sea verdaderamente enriquecedor para el desarrollo infantil y cómo se pueden potenciar los espacios cotidianos para favorecer el aprendizaje.
+                  p.mt-lg En esta oportunidad, exploraremos qué hace que un entorno sea verdaderamente enriquecedor para el desarrollo infantil y cómo se pueden potenciar los espacios cotidianos para favorecer el aprendizaje.
                 .col-lg-4(data-aos="zoom-in").order-1.mb-3.mb-lg-0
                   img.img-fluid(src='@/assets/curso/tema2/1.svg', style="max-width:190px", alt="" ).mx-auto.mx-lg-0.ms-lg-auto.mb-4.mb-lg-0
         h5 ¡Acompáñenos en este recorrido por los entornos de aprendizaje y descubramos juntos su impacto en la estimulación temprana! 
@@ -160,7 +160,7 @@
             h2.mb-4(data-aos="flip-up") Elementos claves para favorecer el desarrollo
             p.mb-4(data-aos="fade-right") En el PDF <b>Elementos clave para favorecer el desarrollo</b>, se explora la importancia de contar con recursos adecuados para fortalecer la motricidad, el pensamiento lógico, la creatividad y la regulación emocional. A través de este contenido, se presentan estrategias para seleccionar y utilizar materiales que promuevan la exploración, la autonomía y el juego como pilares fundamentales para el crecimiento integral de los niños en sus primeras etapas de vida.
     
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_3.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_5.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -190,7 +190,7 @@
             h2.mb-4(data-aos="flip-up") Diseño de espacios que potencien la exploración, la creatividad y la autonomía
             p.mb-4(data-aos="fade-right") En el PDF <b>Diseño de espacios</b>, se analizan estrategias para organizar entornos que fomenten la curiosidad, la independencia y la creatividad en los niños. A través de este contenido, se presentan claves para estructurar espacios accesibles, seguros y estimulantes, tanto en el hogar como en entornos educativos, permitiendo que el niño interactúe libremente con su entorno y fortalezca su confianza en sí mismo.
     
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_4.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_6.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
